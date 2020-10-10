@@ -1,0 +1,1 @@
+{"autoupdate":{"source":"npm","target":"angular-hal","fileMap":[{"basePath":"dist","files":["**/*"]}]},"description":"Hal client for angularjs","filename":"angular-hal.min.js","homepage":"http://angular-hal.io","keywords":["angular","hal"],"license":"WTFPL","name":"angular-hal","repository":{"type":"git","url":"https://github.com/LuvDaSun/angular-hal.git"},"version":"2.3.0"}
