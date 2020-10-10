@@ -1,0 +1,1 @@
+{"authors":[{"name":"Paul Rosen"}],"description":"javascript for rendering abc music notation","filename":"abcjs_basic-min.js","homepage":"https://abcjs.net","keywords":["javascript","abc","music"],"license":"MIT","name":"abcjs","repository":{"type":"git","url":"git+https://github.com/paulrosen/abcjs.git"},"version":"3.1.1","author":"Paul Rosen"}
