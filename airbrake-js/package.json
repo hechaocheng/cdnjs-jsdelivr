@@ -1,0 +1,1 @@
+{"authors":[{"name":"Airbrake"}],"description":"Notify Airbrake on JavaScript exceptions","filename":"client.min.js","homepage":"https://airbrake.io","keywords":["exception","error","logging","airbrake","client"],"license":"MIT","name":"airbrake-js","repository":{"type":"git","url":"https://github.com/airbrake/airbrake-js.git"},"version":"1.6.7","author":"Airbrake"}
